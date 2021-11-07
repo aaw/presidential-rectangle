@@ -94,7 +94,7 @@ unsatisfiable.
 
 ### Relative forces
 
-Forces might be too strict, and instead you just care about relative positioning
+Forces might be too strict for your needs if you just care about relative positioning
 of a set of words. For example, you might want HARDING and HARRISON to intersect
 in H's but not care which is horizontal and which is vertical or where they
 appear in the rectangle.
