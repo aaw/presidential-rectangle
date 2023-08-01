@@ -25,7 +25,7 @@ The workflow is basically:
    2. Find a solution or prove one doesn't exist with a SAT solver
    3. Extract a solution if one exists, otherwise try again
 
-The Presidential Rectangle seems to difficult to solve directly, so these tools allow you to specify many more types of contstraints to zero in
+The Presidential Rectangle seems too difficult to solve directly, so these tools allow you to specify many more types of contstraints to zero in
 on specific solutions. First, to illustrate the workflow, here's how you'd find the smallest rectangle containing the words ZERO, ONE, ..., TEN:
 
 ```
