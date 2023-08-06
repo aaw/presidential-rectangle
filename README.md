@@ -15,7 +15,7 @@ Here's a 21-by-21 solution for the current set of 40 presidential surnames, as o
 ## Setup
 
 You'll need a SAT solver that accepts DIMACS CNF files as input. I'll use [kissat](https://github.com/arminbiere/kissat.git) in
-examples below. You'll also need python3 intalled.
+examples below. You'll also need python3 installed.
 
 ## Examples
 
