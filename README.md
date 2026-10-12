@@ -8,9 +8,9 @@ The Presidential Rectangle puzzle asks for a packing of all U.S. presidential su
 
 You can read more background about the puzzle and these tools in [this post](https://blog.aaw.io/2021/11/07/the-presidential-rectangle.html).
 
-Here's a 21-by-21 solution for the current set of 40 presidential surnames, as of 2021:
+Here's a 20-by-20 solution for the current set of 40 presidential surnames, as of 2026:
 
-![](21-by-21.png)
+![](20-by-20.png)
 
 ## Setup
 
@@ -165,6 +165,6 @@ ZERO SIX
  G R TEN
  H   H I
  TWO R N
-   N E E
+     N E E
   SEVEN
 ```
